@@ -1,0 +1,7 @@
+"altituderp"
+{
+	"base"		"nutscript"
+	"title"		"altituderp"
+	"author"	"chessnut"
+	"menusystem"	"1"
+}
